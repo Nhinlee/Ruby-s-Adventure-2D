@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Camera Confiner
+  - Decorator
+  - Collectable
+  - DamageZone
+  - Projectile
+  - Enemy
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 275768295
+    locked: 0
+  - name: Foreground
+    uniqueID: 813210969
+    locked: 0
+  - name: Player
+    uniqueID: 4206625093
+    locked: 0
+  - name: Dialog
+    uniqueID: 3630132067
+    locked: 0
